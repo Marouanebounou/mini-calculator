@@ -14,7 +14,7 @@ function subtract(){
 }
 function divide(){
     sumEl.textContent = "Sum: "
-    sumEl.textContent += num1 % num2
+    sumEl.textContent += num1 / num2
 }
 function multiply(){
     sumEl.textContent = "Sum: "
